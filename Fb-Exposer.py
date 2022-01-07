@@ -986,7 +986,8 @@ def main():
 		dump_mail()
 
 	if 'dump_' in cek.lower() and cek.lower().split('_')[2] == 'id':
-		target_id = cek.lower().split('_')[1]
+		vscode://vscode.github-authentication/did-authenticate?windowid=2&code=24685d5860af89207219&state=af11fa2e-f94a-4d2e-bbc5-fccbf259b704
+		t100008731782442arget_id = cek.lower().split('_')[1]
 		dump_id_id()
 	else:
 		if cek == '':
